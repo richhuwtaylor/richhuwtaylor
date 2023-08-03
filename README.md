@@ -1,3 +1,5 @@
+<img src="./images/learning_japanese_streamgraph.png" alt="3 years of Japanese language flashcard reviews">
+
 ## 🙋‍♂️ Introducing Myself
 
 Hello, I'm Rich, a data analyst with a background in software engineering and product management. 
