@@ -10,7 +10,7 @@ This portolio page is where I track my personal development and showcase what I'
 
 A project demonstrating techniques for understanding and predicting customer churn for a simulated social network. By combining product usage analytics event data with customer subscription data, we can reveal which usage behaviours have the biggest impact on churn probability and predict the churn probability of individual accounts.
 
-Logistic Regression | Postgres | SQL
+Cohort Analysis | Logistic Regression | Postgres | SQL
 
 #### [AdventureWorks Business Intelligence Dashboard](https://github.com/richhuwtaylor/adventure-works)
 
@@ -35,16 +35,14 @@ _[Anthony DeBarros - Practical SQL, 2nd Edition](https://nostarch.com/practical-
 
 #### Statistics
 
-_[Thomas Haslwanter - An Introduction to Statistic with Python](https://link.springer.com/book/10.1007/978-3-030-97371-1)_<br>
+_[Thomas Haslwanter - An Introduction to Statistics with Python](https://link.springer.com/book/10.1007/978-3-030-97371-1)_<br>
 ([my chapter solutions](https://github.com/richhuwtaylor/statsintro_python))
 
-_[Maven Analytics - Statistic for Data Analysis](https://mavenanalytics.io/course/statistics-for-data-analysis)_<br>
+_[Maven Analytics - Statistics for Data Analysis](https://mavenanalytics.io/course/statistics-for-data-analysis)_<br>
 ([my solutions and notes from mid-course projects](https://github.com/richhuwtaylor/statistics-for-data-analysis/tree/main))
 
 #### Spark
 _[Jonathan Rioux - Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)_<br>
 ([my chapter solutions](https://github.com/richhuwtaylor/analysis-with-python-and-pyspark))
 
-### 👋🏻 Connect with Me
-
-- [Linkedin](https://www.linkedin.com/in/richhuwtaylor/)
+### 👋🏻 Connect with Me on [LinkedIn](https://www.linkedin.com/in/richhuwtaylor/)
