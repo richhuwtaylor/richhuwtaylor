@@ -1,8 +1,8 @@
 <img src="./images/learning_japanese_streamgraph.png" alt="3 years of Japanese language flashcard reviews">
 
-## 🙋‍♂️ Introducing Myself
+### 🙋‍♂️ Introducing Myself
 
-Hello, I'm Rich, a data analyst with a background in software engineering and product management. 
+Hello! I'm Rich, a data analyst with a background in software engineering and product management. 
 
 This portolio page is where I track my personal development and showcase what I've been working on.
 
