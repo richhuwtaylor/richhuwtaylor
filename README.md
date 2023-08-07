@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ Introducing Myself
 
-Hello! I'm Rich, a data analyst with a background in software engineering and product management. 
+Hello! I'm Rich, a data analyst with a background in data product management and software development.
 
 This portolio page is where I track my personal development and showcase what I've been working on.
 
