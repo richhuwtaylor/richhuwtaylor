@@ -26,6 +26,12 @@ A data cleaning and logistic regression pipeline implemented in PySpark which ex
 
 PySpark ML | Logistic Regression | Data Cleaning
 
+#### [NYC Taxi Trip Analysis Pipeline](https://github.com/richhuwtaylor/ny-taxi-analytics-pipeline)
+
+A data pipeline orchestrated across AWS and Google Cloud Services using mage.ai for data transformation. The project visualises a month of trips made by licensed yellow cabs in January 2023 in New York in Looker Studio.
+
+Data Engineering | EC2 | BigQuery | Looker Studio
+
 ### 📖 Materials I've Found Helpful
 
 Where appropriate, I include links to my own solutions to "end of chapter" exercises.
