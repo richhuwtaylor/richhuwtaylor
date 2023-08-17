@@ -43,6 +43,9 @@ _[Anthony DeBarros - Practical SQL, 2nd Edition](https://nostarch.com/practical-
 
 #### Statistics
 
+_[James, Witten, Hastie, Tibshirani and Taylor - An Introduction to Statistics Learning with Applications in Python](https://www.statlearning.com/)_<br>
+([my solutions for labs and end-of-chapter exercises](https://github.com/richhuwtaylor/introduction-to-statistical-learning))
+
 _[Thomas Haslwanter - An Introduction to Statistics with Python](https://link.springer.com/book/10.1007/978-3-030-97371-1)_<br>
 ([my chapter solutions](https://github.com/richhuwtaylor/statsintro_python))
 
