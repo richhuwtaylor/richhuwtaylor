@@ -14,11 +14,11 @@ A project demonstrating techniques for understanding and predicting customer chu
 
 Cohort Analysis | Logistic Regression | Postgres | SQL
 
-#### [AdventureWorks Business Intelligence Dashboard](https://github.com/richhuwtaylor/adventure-works)
+#### [Sakila Film Streaming: Transforming Streaming Data for Analytics](https://github.com/richhuwtaylor/transforming-streaming-data-for-analytics)
 
-A Microsoft Power BI business intelligence dashboard for AdventureWorks, a fictional global manufacturing company that produces cycling equipment and accessories. The data was derived from the [AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) available from Microsoft.
+Uses AWS components to combine a SQL database with streaming event data and transform it for analysis with Amazon Athena.
 
-Power BI | M Formula Language | Power Query | DAX
+Data Engineering | Kinesis Firehose | S3 | AWS Glue | AWS Lambda
 
 #### [Dessert or Not? - A PySpark Logistic Regression Pipeline](https://github.com/richhuwtaylor/dessert-or-not)
 
@@ -31,6 +31,12 @@ PySpark ML | Logistic Regression | Data Cleaning
 A data pipeline orchestrated across AWS and Google Cloud Services using mage.ai for data transformation. The project visualises a month of trips made by licensed yellow cabs in January 2023 in New York in Looker Studio.
 
 Data Engineering | EC2 | BigQuery | Looker Studio
+
+#### [AdventureWorks Business Intelligence Dashboard](https://github.com/richhuwtaylor/adventure-works)
+
+A Microsoft Power BI business intelligence dashboard for AdventureWorks, a fictional global manufacturing company that produces cycling equipment and accessories. The data was derived from the [AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) available from Microsoft.
+
+Power BI | M Formula Language | Power Query | DAX
 
 ### 📖 Materials I've Found Helpful
 
