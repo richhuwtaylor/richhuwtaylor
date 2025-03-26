@@ -2,9 +2,9 @@
 
 ### 🙋‍♂️ Introducing Myself
 
-Hello! I'm Rich, a data analyst with a background in data product management and software development.
+Hello! I'm Rich, a product manager with a background in software development.
 
-This portolio page is where I track my personal development and showcase what I've been working on.
+This portolio page is where I track my personal development activities and showcase my personal interests and some of what I've been working on.
 
 ### 🌱 Portfolio Projects
 
